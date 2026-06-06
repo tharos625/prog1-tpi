@@ -1,2 +1,2 @@
-# prog1-tpi
-Progamación 1 - TPI - UTP TUPaD
+# Programació 1 - Trabajo Practico Integrador
+## TPI - UTN TUPaD
