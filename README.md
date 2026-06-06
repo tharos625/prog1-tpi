@@ -1,2 +1,2 @@
-# Programació 1 - Trabajo Practico Integrador
+# Programación 1 - Trabajo Práctico Integrador
 ## TPI - UTN TUPaD
