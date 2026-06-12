@@ -119,11 +119,9 @@ América: 4 países
 Europa: 3 países  
 Asia: 5 países  
 
-#### Participación de los integrantes
-Integrante	Tareas realizadas
-Nombre Apellido	Diseño y desarrollo del módulo de altas
-Nombre Apellido	Implementación de búsquedas y filtros
-Nombre Apellido	Estadísticas y documentación
+### Integrantes
+Ezequiel Callerame  
+Gabriel Di Lorenzo
 
 #### Licencia
 
