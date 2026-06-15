@@ -123,6 +123,6 @@ Asia: 5 países
 Ezequiel Callerame  
 Gabriel Di Lorenzo
 
-#### Licencia
+#### Video Explicativo
 
-Proyecto realizado con fines educativos.
+[Link YouTube] https://youtu.be/glm386XvisA
